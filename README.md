@@ -10,4 +10,4 @@ HttpMessageConverter是对http的request和response进行自动转换
 
 通过对上面的讲述,建议重载extendMessageConverters方法
 
-
+![HttpMessageConverterFlow](http://images2017.cnblogs.com/blog/280044/201710/280044-20171025172732723-591727836.jpg)
